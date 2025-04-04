@@ -1,0 +1,7 @@
+p:nth-child(odd){color: rgb(255, 255, 255); font-size: 40px;}
+p:nth-child(even){color: rgb(0, 0, 0); font-size: 60px;}
+
+body{
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+}

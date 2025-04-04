@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(231, 195, 36);
+    font-family: Trebuchet MS;
+    font-size: 20px;
+    }
+input{
+    font-family: Trebuchet MS;
+    font-size: 25px;
+    }
+
+#login{
+    margin: 50px auto;
+    width: 400px;
+    text-align: center;
+    }
+
+#login h2{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-align: center; 
+    }
